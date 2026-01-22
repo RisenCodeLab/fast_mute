@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest a new feature or idea for this project
 title: 'FR: '
-labels: 'Feature Request'
-assignees: ''
+labels: 'enhancement'
+assignees: 'dizzib'
 
 ---
 
