@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest a new feature or idea for this project
 title: ''
-labels: 'enhancement'
-assignees: 'dizzib'
+labels: enhancement
+assignees: dizzib
 
 ---
 
