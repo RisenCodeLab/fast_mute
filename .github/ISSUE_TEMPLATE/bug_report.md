@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a bug report
 title: ''
-labels: bug
-assignees: RisenCodeDev
+labels: bug, enhancement
+assignees: dizzib, RisenCodeDev
 
 ---
 
